@@ -1,7 +1,7 @@
 # Multiple-Linear-Regression---OLS-Method
 ## Insurance Charge Prediction
 
-This machine learning project is all about, implementing a Multilinear Regression model using the Ordinary Least Squares (OLS) method to predict insurance charges. The model relies on identifying relevant independent features such as age, BMI, and smoker status from the dataset.
+This machine learning project is all about, implementing a Multilinear Regression model using the Ordinary Least Squares (OLS) method to predict insurance charges.
 
 The OLS method is a widely used technique for estimating the parameters of a linear regression model. It minimizes the sum of squared differences between the observed values and the predicted values, providing the best-fitting line that represents the relationship between the independent variables and the dependent variable.
 
